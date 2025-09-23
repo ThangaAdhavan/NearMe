@@ -98,9 +98,7 @@ nangamangalam.html
 </html>
 ```
 ## OUTPUT
-![alt text](<Bhavani Nagar.webp>)
-![alt text](Nangamangalam.webp)
-![alt text](<Tambaram Railway station.webp>)
+![alt text](<image/imageapp/static/Screenshot 2025-09-22 135023.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
